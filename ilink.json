@@ -1,0 +1,8 @@
+{
+    "name":"ilink.demo",
+    "moduleName":"ilink.demo",
+    "main":"index.js",
+    "version":"2.0.0",
+    "tag":"ilink.demo",
+    "tags":["ilink.demoV2","V2"]
+}

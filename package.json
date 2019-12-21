@@ -1,0 +1,22 @@
+{
+  "name": "demo.module2.ilink",
+  "version": "1.0.0",
+  "description": "demo ilink",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apporoad/demo.module1.v2.ilink.git"
+  },
+  "keywords": [
+    "ilink"
+  ],
+  "author": "apporoad",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/apporoad/demo.module1.v2.ilink/issues"
+  },
+  "homepage": "https://github.com/apporoad/demo.module1.v2.ilink#readme"
+}
